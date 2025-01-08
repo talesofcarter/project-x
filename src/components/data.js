@@ -1,8 +1,9 @@
+
 export default [
   {
     id: 1,
     img: {
-      src: "./src/assets/images/avatar.jpg",
+      src: "images/avatar.jpg",
     },
     title: "Avatar",
     year: 2009,
@@ -13,7 +14,7 @@ export default [
   {
     id: 2,
     img: {
-      src: "./src/assets/images/avengers.jpg",
+      src: "images/avengers.jpg",
     },
     title: "Avengers: Infinity Wars",
     year: 2018,
@@ -24,7 +25,7 @@ export default [
   {
     id: 3,
     img: {
-      src: "./src/assets/images/black_panther.jpg",
+      src: "./public/images/black_panther.jpg",
     },
     title: "Black Panther",
     year: 2018,
@@ -35,7 +36,7 @@ export default [
   {
     id: 4,
     img: {
-      src: "./src/assets/images/mufasa_lion_king.jpg",
+      src: "./public/images/mufasa_lion_king.jpg",
     },
     title: "Mufasa: The Lion King",
     year: 2024,
@@ -46,7 +47,7 @@ export default [
   {
     id: 5,
     img: {
-      src: "./src/assets/images/spiderman.jpg",
+      src: "./public/images/spiderman.jpg",
     },
     title: "Spiderman",
     year: 2002,
@@ -57,7 +58,7 @@ export default [
   {
     id: 6,
     img: {
-      src: "./src/assets/images/terminator.jpg",
+      src: "./public/images/terminator.jpg",
     },
     title: "Terminator",
     year: 1984,
