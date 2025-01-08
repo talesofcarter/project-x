@@ -25,7 +25,7 @@ export default [
   {
     id: 3,
     img: {
-      src: "./public/images/black_panther.jpg",
+      src: "images/black_panther.jpg",
     },
     title: "Black Panther",
     year: 2018,
@@ -36,7 +36,7 @@ export default [
   {
     id: 4,
     img: {
-      src: "./public/images/mufasa_lion_king.jpg",
+      src: "images/mufasa_lion_king.jpg",
     },
     title: "Mufasa: The Lion King",
     year: 2024,
@@ -47,7 +47,7 @@ export default [
   {
     id: 5,
     img: {
-      src: "./public/images/spiderman.jpg",
+      src: "images/spiderman.jpg",
     },
     title: "Spiderman",
     year: 2002,
@@ -58,7 +58,7 @@ export default [
   {
     id: 6,
     img: {
-      src: "./public/images/terminator.jpg",
+      src: "images/terminator.jpg",
     },
     title: "Terminator",
     year: 1984,
